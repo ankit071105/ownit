@@ -2,7 +2,11 @@
 
 **Find the GitHub repos a recruiter will skip, and fix them.**
 
-Live app: [ownit-xi.vercel.app](https://ownit-xi.vercel.app) · API: [ownit-api-jomw.onrender.com/docs](https://ownit-api-jomw.onrender.com/docs) · Frontend repo: [ownit-frontend](https://github.com/ankit071105/ownit-frontend)
+  Live app: [ownit-xi.vercel.app](https://ownit-xi.vercel.app) 
+
+· API: [ownit-api-jomw.onrender.com/docs](https://ownit-api-jomw.onrender.com/docs) 
+
+· Frontend repo: [ownit-frontend](https://github.com/ankit071105/ownit-frontend)
 
 ## The problem
 
